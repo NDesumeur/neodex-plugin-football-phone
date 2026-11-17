@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.football",
+  "repo": "NDesumeur/neodex-plugin-football-phone",
+  "version": "1.0.0",
+  "sha256": "e06e0d1a56fc8c2e0d7d7c2a728424055a161f90c69457f83c744d29def0a011",
+  "approvedAt": "2026-11-17T18:40:03.069Z",
+  "neobase": ">=4.0.0",
+  "signature": "QDFqB8EA8PQttZ+/rKRiZOgGtUeHcU+OcNoE8EJ+dGcQQiJJawpJUIVucrFTudOCfjuChFdUWrV6fzNn0Lk/Dg=="
+}
